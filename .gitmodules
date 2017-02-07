@@ -1,0 +1,7 @@
+[submodule "so-1/ufmsshell"]
+	path = so-1/ufmsshell
+	url = git@gitlab.com:anarchean1/ufms-so-1-t1.git
+
+[submodule "so-2/page-simulator"]
+	path = so-2/page-simulator
+	url = git@gitlab.com:anarchean1/ufms-so-2-t1.git
